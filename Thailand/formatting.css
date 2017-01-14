@@ -1,0 +1,98 @@
+/* formatting.css*/
+
+body{
+	background-color: rgb(9,99,98);
+	}
+.menu{
+	position: absolute;
+	left: 0px;
+	width: 175px;
+	background-color: rgb(164,3,12);
+	padding: 10px;
+	border-style: none solid none none;
+	border-color: rgb(190,142,57);
+	border-width: 10px;
+	font-weight: bold;
+	font-size: larger;
+	}
+.middlePanel{
+	margin-left: 200px;
+	margin-right: 100px;
+	max-width: 1000px;
+	}
+.menuBox{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(190,142,57);
+	width: 125px;
+	padding: 10px;
+	margin: 15px;
+	}
+article{
+	background-color: rgb(21,153,152);
+	padding: 15px;
+	padding-left: 30px;
+	margin: 20px;
+	border-style: double none double none;
+	}
+h1{
+	border-style: double;
+	padding: 20px;
+	font-size: 60px;
+    }
+h3{
+	color: rgb(353,169,41);
+	font-weight: bold;
+	font-size: larger;
+	margin: 15px 0px -15px -20px;
+    }
+h4{
+	border-style: dotted;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 10px;
+	text-align: center;
+	font-weight: normal;
+	}
+p{
+	margin-top: 0px;
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+img{
+	margin-bottom: 10px;
+	}
+.quote{
+	text-align: justify;
+	margin: 0px 100px 10px 150px;
+	padding: 15px;
+	border-style: none solid none solid;
+	border-width: 5px;
+	border-color: black;
+	background-color: rgb(165,110,22);
+	}
+span#location{
+	font-variant: small-caps;
+	}
+.FloatLeft{
+	float: left;
+	margin: 0px 10px 0px 0px;
+	}
+.FloatRight{
+	float: right;
+	margin: 0px 0px 0px 10px;
+	}
+.BlogPost{
+	margin: 0 35% 0 5%;
+	padding: 10px 40px 20px 40px;
+	background-color: rgb(255,253,197);
+	}
+.recipe{
+	}
+.ingredients{
+	font-family: Courier New, Courier, monospace;
+	}
+.disclaimer{
+	background-color: rgb(164,3,12);
+	color: rgb(190,142,57);
+	}
