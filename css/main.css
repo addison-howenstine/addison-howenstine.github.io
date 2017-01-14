@@ -1490,10 +1490,6 @@ a.menu-toggle {
 	padding-top: 7.2rem;
 }
 
-#VOOGA{
-	border: 1px solid red;
-}
-
 
 
 /** 
@@ -1586,6 +1582,12 @@ a.menu-toggle {
 	.cta-content .stores li .button {
 		width: 80%;
 	}
+}
+
+.post {
+	background-color:#4167b5; 
+	padding:20px; 
+	cursor: pointer;
 }
 
 
