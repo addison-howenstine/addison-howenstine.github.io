@@ -1624,7 +1624,8 @@ footer ul li {
 	padding-left: 0;
 }
 .footer-main {
-	padding-top: 6.6rem;
+	margin-top: 4.2rem;
+	padding-top: 4.2rem;
 	padding-bottom: 4.2rem;
 	background: #171b23;
 }
